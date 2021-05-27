@@ -1,7 +1,11 @@
 # tugas9_basisdata
 Koneksi Database Mysql Ke PHP Judul "Sistem hotel"
 ada 3 tabel
-<li>
+<ul>
+  <li>1.tabel kamar</li>
+  <li>1.tabel kamar</li>
+  <li>1.tabel kamar</li>
+</ul>
 1.tabel kamar
 2.tabel registrasi
 3.tabel tamu hotel
