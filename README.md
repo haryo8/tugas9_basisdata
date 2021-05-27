@@ -3,8 +3,8 @@ Koneksi Database Mysql Ke PHP Judul "Sistem hotel"
 ada 3 tabel
 <ul>
   <li>1.tabel kamar</li>
-  <li>1.tabel kamar</li>
-  <li>1.tabel kamar</li>
+  <li>2.tabel registrasi </li>
+  <li>3.tabel tamu hotel</li>
 </ul>
 
 <br>
